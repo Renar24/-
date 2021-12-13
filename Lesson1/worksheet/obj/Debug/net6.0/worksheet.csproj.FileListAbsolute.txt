@@ -1,0 +1,15 @@
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\bin\Debug\net6.0\worksheet.exe
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\bin\Debug\net6.0\worksheet.deps.json
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\bin\Debug\net6.0\worksheet.runtimeconfig.json
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\bin\Debug\net6.0\worksheet.dll
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\bin\Debug\net6.0\ref\worksheet.dll
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\bin\Debug\net6.0\worksheet.pdb
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\worksheet.csproj.AssemblyReference.cache
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\worksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\worksheet.AssemblyInfoInputs.cache
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\worksheet.AssemblyInfo.cs
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\worksheet.csproj.CoreCompileInputs.cache
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\worksheet.dll
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\ref\worksheet.dll
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\worksheet.pdb
+C:\Users\enote\Desktop\C#\Lesson1\worksheet\obj\Debug\net6.0\worksheet.genruntimeconfig.cache
