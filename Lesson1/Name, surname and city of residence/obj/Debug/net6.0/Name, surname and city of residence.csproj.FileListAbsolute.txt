@@ -1,0 +1,15 @@
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\Name, surname and city of residence.csproj.AssemblyReference.cache
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\Name, surname and city of residence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\Name, surname and city of residence.AssemblyInfoInputs.cache
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\Name, surname and city of residence.AssemblyInfo.cs
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\Name, surname and city of residence.csproj.CoreCompileInputs.cache
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\bin\Debug\net6.0\Name, surname and city of residence.exe
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\bin\Debug\net6.0\Name, surname and city of residence.deps.json
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\bin\Debug\net6.0\Name, surname and city of residence.runtimeconfig.json
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\bin\Debug\net6.0\Name, surname and city of residence.dll
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\bin\Debug\net6.0\ref\Name, surname and city of residence.dll
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\bin\Debug\net6.0\Name, surname and city of residence.pdb
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\Name, surname and city of residence.dll
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\ref\Name, surname and city of residence.dll
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\Name, surname and city of residence.pdb
+C:\Users\enote\Desktop\C#\Lesson1\Name, surname and city of residence\obj\Debug\net6.0\Name, surname and city of residence.genruntimeconfig.cache
