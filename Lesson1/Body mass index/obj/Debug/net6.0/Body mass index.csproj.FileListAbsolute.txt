@@ -1,0 +1,15 @@
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\Body mass index.csproj.AssemblyReference.cache
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\Body mass index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\Body mass index.AssemblyInfoInputs.cache
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\Body mass index.AssemblyInfo.cs
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\Body mass index.csproj.CoreCompileInputs.cache
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\bin\Debug\net6.0\Body mass index.exe
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\bin\Debug\net6.0\Body mass index.deps.json
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\bin\Debug\net6.0\Body mass index.runtimeconfig.json
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\bin\Debug\net6.0\Body mass index.dll
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\bin\Debug\net6.0\ref\Body mass index.dll
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\bin\Debug\net6.0\Body mass index.pdb
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\Body mass index.dll
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\ref\Body mass index.dll
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\Body mass index.pdb
+C:\Users\enote\Desktop\C#\Lesson1\Body mass index\obj\Debug\net6.0\Body mass index.genruntimeconfig.cache
